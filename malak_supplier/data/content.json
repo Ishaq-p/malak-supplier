@@ -1,0 +1,412 @@
+{
+  "en": {
+    "meta": {
+      "title": "[Your Company Name] — Chemical & Raw Material Supplier",
+      "description": "[Your Company Name] supplies chemicals and raw materials to manufacturers. Add a one-line description of what you do here."
+    },
+    "topbar": {
+      "phone": "[+90 000 000 00 00]",
+      "email": "[info@yourcompany.com]",
+      "address": "[City, Country]",
+      "hours": "[Mon–Fri, 09:00–18:00]"
+    },
+    "brand": {
+      "name": "[Your Company Name]",
+      "logo": "/images/logo-placeholder.svg"
+    },
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "products": "Products",
+      "contact": "Contact",
+      "cta": "Request a Quote"
+    },
+    "hero": {
+      "eyebrow": "Industrial & Specialty Chemical Supplier",
+      "headline": "[Your Headline — e.g. Trusted Raw Materials for Modern Manufacturing]",
+      "subhead": "[One or two sentences on what you supply, to which industries, and why a buyer should trust you. Keep it concrete: materials, capacity, reliability.]",
+      "cta_primary": "View Our Products",
+      "cta_secondary": "Request a Quote",
+      "image": "/images/hero-placeholder.jpg",
+      "image_alt": "[Photo of facility, warehouse, or products]"
+    },
+    "trust_strip": [
+      { "stat": "[00+]", "label": "[Years of Operation]" },
+      { "stat": "[00+]", "label": "[Active Clients]" },
+      { "stat": "[00+]", "label": "[Products Supplied]" },
+      { "stat": "[00]", "label": "[Countries Served]" }
+    ],
+    "about_preview": {
+      "eyebrow": "About Us",
+      "heading": "[A short, honest line about who you are]",
+      "body": "[Two or three sentences summarizing your company's history, focus, and what sets your supply chain apart. This should read like something a procurement manager would actually want to know.]",
+      "link": "Learn more about us",
+      "image": "/images/about-preview-placeholder.jpg",
+      "image_alt": "[Photo of team, facility, or lab]"
+    },
+    "categories": {
+      "eyebrow": "What We Supply",
+      "heading": "Product Categories",
+      "sub": "[Short line introducing your product range.]",
+      "items": [
+        {
+          "name": "[Raw Materials]",
+          "description": "[Short description of this category — one sentence.]",
+          "image": "/images/category-1-placeholder.jpg"
+        },
+        {
+          "name": "[Specialty Additives]",
+          "description": "[Short description of this category — one sentence.]",
+          "image": "/images/category-2-placeholder.jpg"
+        },
+        {
+          "name": "[Packaging Materials]",
+          "description": "[Short description of this category — one sentence.]",
+          "image": "/images/category-3-placeholder.jpg"
+        },
+        {
+          "name": "[Logistics & Bulk Supply]",
+          "description": "[Short description of this category — one sentence.]",
+          "image": "/images/category-4-placeholder.jpg"
+        }
+      ]
+    },
+    "quality": {
+      "eyebrow": "Quality & Compliance",
+      "heading": "[Built on Consistency and Documentation]",
+      "body": "[Explain your QC process, certifications, and documentation standards. Buyers in this industry care about traceability — CoAs, MSDS, batch records.]",
+      "points": [
+        "[Certificate of Analysis provided with every batch]",
+        "[Material Safety Data Sheets available on request]",
+        "[ISO / regional certification — name it here]",
+        "[Consistent batch-to-batch specification]"
+      ]
+    },
+    "process": {
+      "eyebrow": "How We Work",
+      "heading": "From Sourcing to Delivery",
+      "steps": [
+        { "title": "Sourcing", "text": "[How you source or produce raw materials.]" },
+        { "title": "Quality Control", "text": "[How each batch is tested and documented.]" },
+        { "title": "Packaging", "text": "[How materials are packaged for handling and transport.]" },
+        { "title": "Delivery", "text": "[How and where you deliver — regions, lead times.]" }
+      ]
+    },
+    "cta_band": {
+      "heading": "[Looking for a reliable supply partner?]",
+      "body": "[One line inviting the visitor to get in touch.]",
+      "cta": "Contact Us"
+    },
+    "footer": {
+      "about": "[One or two lines about the company for the footer.]",
+      "nav_heading": "Navigation",
+      "contact_heading": "Contact",
+      "social_heading": "Follow Us",
+      "legal": "© [Year] [Your Company Name]. All rights reserved."
+    },
+    "about_page": {
+      "hero_heading": "About [Your Company Name]",
+      "hero_sub": "[One line summarizing your company.]",
+      "story_heading": "Our Story",
+      "story_body": "[Two to three paragraphs on how the company started, what it supplies, and how it has grown. Replace this placeholder with your real history.]\n\n[Second paragraph placeholder — add detail on your facilities, sourcing network, or client base.]",
+      "values_heading": "What We Stand For",
+      "values": [
+        { "title": "[Reliability]", "text": "[One sentence describing this value in practice.]" },
+        { "title": "[Quality]", "text": "[One sentence describing this value in practice.]" },
+        { "title": "[Partnership]", "text": "[One sentence describing this value in practice.]" }
+      ],
+      "milestones_heading": "Milestones",
+      "milestones": [
+        { "year": "[Year]", "text": "[What happened.]" },
+        { "year": "[Year]", "text": "[What happened.]" },
+        { "year": "[Year]", "text": "[What happened.]" }
+      ]
+    },
+    "products_page": {
+      "hero_heading": "Our Products",
+      "hero_sub": "[One line introducing the product catalogue below. Replace the sample entries with your real product line — see README.]",
+      "filter_all": "All",
+      "sample_badge": "Sample entry — replace",
+      "items": [
+        {
+          "name": "[Product Name]",
+          "category": "[Raw Materials]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[One or two sentences describing the product, its grade/purity, and typical use.]",
+          "image": "/images/product-1-placeholder.jpg"
+        },
+        {
+          "name": "[Product Name]",
+          "category": "[Specialty Additives]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[One or two sentences describing the product, its grade/purity, and typical use.]",
+          "image": "/images/product-2-placeholder.jpg"
+        },
+        {
+          "name": "[Product Name]",
+          "category": "[Raw Materials]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[One or two sentences describing the product, its grade/purity, and typical use.]",
+          "image": "/images/product-3-placeholder.jpg"
+        },
+        {
+          "name": "[Product Name]",
+          "category": "[Packaging Materials]",
+          "code": "[SPEC-000]",
+          "cas": "[N/A]",
+          "description": "[One or two sentences describing the product and typical use.]",
+          "image": "/images/product-4-placeholder.jpg"
+        },
+        {
+          "name": "[Product Name]",
+          "category": "[Specialty Additives]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[One or two sentences describing the product, its grade/purity, and typical use.]",
+          "image": "/images/product-5-placeholder.jpg"
+        },
+        {
+          "name": "[Product Name]",
+          "category": "[Raw Materials]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[One or two sentences describing the product, its grade/purity, and typical use.]",
+          "image": "/images/product-6-placeholder.jpg"
+        }
+      ]
+    },
+    "contact_page": {
+      "hero_heading": "Get in Touch",
+      "hero_sub": "[One line inviting inquiries — samples, pricing, partnerships.]",
+      "form_heading": "Send an Inquiry",
+      "form": {
+        "name": "Full Name",
+        "company": "Company Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Message",
+        "submit": "Send Message",
+        "sending": "Sending…",
+        "success": "Thank you — your message has been sent. We'll be in touch shortly.",
+        "error": "Something went wrong. Please try again or contact us directly by email."
+      },
+      "info_heading": "Contact Information",
+      "info": {
+        "address_label": "Address",
+        "phone_label": "Phone",
+        "email_label": "Email",
+        "hours_label": "Working Hours"
+      },
+      "map_note": "[Replace the map embed in this section with your actual location — see README.]"
+    }
+  },
+  "tr": {
+    "meta": {
+      "title": "[Şirket Adınız] — Kimyasal ve Hammadde Tedarikçisi",
+      "description": "[Şirket Adınız], üreticilere kimyasal ve hammadde tedariki sağlar. Buraya faaliyetinizi tek cümleyle açıklayın."
+    },
+    "topbar": {
+      "phone": "[+90 000 000 00 00]",
+      "email": "[info@sirketiniz.com]",
+      "address": "[Şehir, Ülke]",
+      "hours": "[Pzt–Cum, 09:00–18:00]"
+    },
+    "brand": {
+      "name": "[Şirket Adınız]",
+      "logo": "/images/logo-placeholder.svg"
+    },
+    "nav": {
+      "home": "Anasayfa",
+      "about": "Hakkımızda",
+      "products": "Ürünler",
+      "contact": "İletişim",
+      "cta": "Teklif İsteyin"
+    },
+    "hero": {
+      "eyebrow": "Endüstriyel ve Özel Kimyasal Tedarikçisi",
+      "headline": "[Başlığınız — örn. Modern Üretim için Güvenilir Hammadde Tedariki]",
+      "subhead": "[Ne tedarik ettiğinizi, hangi sektörlere hizmet verdiğinizi ve neden güvenilir olduğunuzu anlatan bir veya iki cümle.]",
+      "cta_primary": "Ürünlerimizi İnceleyin",
+      "cta_secondary": "Teklif İsteyin",
+      "image": "/images/hero-placeholder.jpg",
+      "image_alt": "[Tesis, depo veya ürün fotoğrafı]"
+    },
+    "trust_strip": [
+      { "stat": "[00+]", "label": "[Yıllık Deneyim]" },
+      { "stat": "[00+]", "label": "[Aktif Müşteri]" },
+      { "stat": "[00+]", "label": "[Tedarik Edilen Ürün]" },
+      { "stat": "[00]", "label": "[Hizmet Verilen Ülke]" }
+    ],
+    "about_preview": {
+      "eyebrow": "Hakkımızda",
+      "heading": "[Kim olduğunuzu anlatan kısa ve samimi bir başlık]",
+      "body": "[Şirketinizin tarihini, odak alanını ve tedarik zincirinizi farklı kılan unsurları özetleyen iki veya üç cümle.]",
+      "link": "Hakkımızda daha fazla bilgi",
+      "image": "/images/about-preview-placeholder.jpg",
+      "image_alt": "[Ekip, tesis veya laboratuvar fotoğrafı]"
+    },
+    "categories": {
+      "eyebrow": "Neler Tedarik Ediyoruz",
+      "heading": "Ürün Kategorileri",
+      "sub": "[Ürün yelpazenizi tanıtan kısa bir cümle.]",
+      "items": [
+        {
+          "name": "[Hammaddeler]",
+          "description": "[Bu kategoriye ait kısa açıklama — tek cümle.]",
+          "image": "/images/category-1-placeholder.jpg"
+        },
+        {
+          "name": "[Özel Katkı Maddeleri]",
+          "description": "[Bu kategoriye ait kısa açıklama — tek cümle.]",
+          "image": "/images/category-2-placeholder.jpg"
+        },
+        {
+          "name": "[Ambalaj Malzemeleri]",
+          "description": "[Bu kategoriye ait kısa açıklama — tek cümle.]",
+          "image": "/images/category-3-placeholder.jpg"
+        },
+        {
+          "name": "[Lojistik ve Toplu Tedarik]",
+          "description": "[Bu kategoriye ait kısa açıklama — tek cümle.]",
+          "image": "/images/category-4-placeholder.jpg"
+        }
+      ]
+    },
+    "quality": {
+      "eyebrow": "Kalite ve Uygunluk",
+      "heading": "[Tutarlılık ve Belgelendirme Üzerine Kurulu]",
+      "body": "[Kalite kontrol sürecinizi, sertifikalarınızı ve belgelendirme standartlarınızı açıklayın. Bu sektördeki alıcılar izlenebilirliğe önem verir — CoA, MSDS, parti kayıtları.]",
+      "points": [
+        "[Her parti ile Analiz Sertifikası (CoA) sağlanır]",
+        "[Talep üzerine Güvenlik Bilgi Formu (MSDS) sunulur]",
+        "[ISO / bölgesel sertifika — burada belirtin]",
+        "[Partiden partiye tutarlı spesifikasyon]"
+      ]
+    },
+    "process": {
+      "eyebrow": "Nasıl Çalışıyoruz",
+      "heading": "Tedarikten Teslimata",
+      "steps": [
+        { "title": "Tedarik", "text": "[Hammaddeleri nasıl tedarik ettiğiniz veya ürettiğiniz.]" },
+        { "title": "Kalite Kontrol", "text": "[Her partinin nasıl test edildiği ve belgelendirildiği.]" },
+        { "title": "Ambalajlama", "text": "[Malzemelerin taşıma için nasıl ambalajlandığı.]" },
+        { "title": "Teslimat", "text": "[Nereye ve nasıl teslimat yaptığınız — bölgeler, süreler.]" }
+      ]
+    },
+    "cta_band": {
+      "heading": "[Güvenilir bir tedarik ortağı mı arıyorsunuz?]",
+      "body": "[Ziyaretçiyi iletişime geçmeye davet eden tek cümle.]",
+      "cta": "Bize Ulaşın"
+    },
+    "footer": {
+      "about": "[Şirket hakkında dipnot için bir veya iki cümle.]",
+      "nav_heading": "Menü",
+      "contact_heading": "İletişim",
+      "social_heading": "Bizi Takip Edin",
+      "legal": "© [Yıl] [Şirket Adınız]. Tüm hakları saklıdır."
+    },
+    "about_page": {
+      "hero_heading": "[Şirket Adınız] Hakkında",
+      "hero_sub": "[Şirketinizi özetleyen tek cümle.]",
+      "story_heading": "Hikayemiz",
+      "story_body": "[Şirketin nasıl kurulduğu, ne tedarik ettiği ve nasıl büyüdüğüne dair iki veya üç paragraf. Bu yer tutucuyu gerçek geçmişinizle değiştirin.]\n\n[İkinci paragraf yer tutucusu — tesisleriniz, tedarik ağınız veya müşteri kitleniz hakkında detay ekleyin.]",
+      "values_heading": "Değerlerimiz",
+      "values": [
+        { "title": "[Güvenilirlik]", "text": "[Bu değeri uygulamada anlatan tek cümle.]" },
+        { "title": "[Kalite]", "text": "[Bu değeri uygulamada anlatan tek cümle.]" },
+        { "title": "[Ortaklık]", "text": "[Bu değeri uygulamada anlatan tek cümle.]" }
+      ],
+      "milestones_heading": "Kilometre Taşları",
+      "milestones": [
+        { "year": "[Yıl]", "text": "[Ne oldu.]" },
+        { "year": "[Yıl]", "text": "[Ne oldu.]" },
+        { "year": "[Yıl]", "text": "[Ne oldu.]" }
+      ]
+    },
+    "products_page": {
+      "hero_heading": "Ürünlerimiz",
+      "hero_sub": "[Aşağıdaki katalogu tanıtan tek cümle. Örnek kayıtları gerçek ürün gruplarınızla değiştirin — README dosyasına bakın.]",
+      "filter_all": "Tümü",
+      "sample_badge": "Örnek kayıt — değiştirin",
+      "items": [
+        {
+          "name": "[Ürün Adı]",
+          "category": "[Hammaddeler]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[Ürünü, saflık/derecesini ve tipik kullanım alanını anlatan bir veya iki cümle.]",
+          "image": "/images/product-1-placeholder.jpg"
+        },
+        {
+          "name": "[Ürün Adı]",
+          "category": "[Özel Katkı Maddeleri]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[Ürünü, saflık/derecesini ve tipik kullanım alanını anlatan bir veya iki cümle.]",
+          "image": "/images/product-2-placeholder.jpg"
+        },
+        {
+          "name": "[Ürün Adı]",
+          "category": "[Hammaddeler]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[Ürünü, saflık/derecesini ve tipik kullanım alanını anlatan bir veya iki cümle.]",
+          "image": "/images/product-3-placeholder.jpg"
+        },
+        {
+          "name": "[Ürün Adı]",
+          "category": "[Ambalaj Malzemeleri]",
+          "code": "[SPEC-000]",
+          "cas": "[N/A]",
+          "description": "[Ürünü ve tipik kullanım alanını anlatan bir veya iki cümle.]",
+          "image": "/images/product-4-placeholder.jpg"
+        },
+        {
+          "name": "[Ürün Adı]",
+          "category": "[Özel Katkı Maddeleri]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[Ürünü, saflık/derecesini ve tipik kullanım alanını anlatan bir veya iki cümle.]",
+          "image": "/images/product-5-placeholder.jpg"
+        },
+        {
+          "name": "[Ürün Adı]",
+          "category": "[Hammaddeler]",
+          "code": "[SPEC-000]",
+          "cas": "[CAS No.]",
+          "description": "[Ürünü, saflık/derecesini ve tipik kullanım alanını anlatan bir veya iki cümle.]",
+          "image": "/images/product-6-placeholder.jpg"
+        }
+      ]
+    },
+    "contact_page": {
+      "hero_heading": "Bize Ulaşın",
+      "hero_sub": "[Numune, fiyatlandırma veya iş birliği taleplerini davet eden tek cümle.]",
+      "form_heading": "Talep Gönderin",
+      "form": {
+        "name": "Ad Soyad",
+        "company": "Şirket Adı",
+        "email": "E-posta Adresi",
+        "phone": "Telefon Numarası",
+        "subject": "Konu",
+        "message": "Mesaj",
+        "submit": "Mesajı Gönder",
+        "sending": "Gönderiliyor…",
+        "success": "Teşekkürler — mesajınız gönderildi. En kısa sürede size dönüş yapacağız.",
+        "error": "Bir şeyler ters gitti. Lütfen tekrar deneyin ya da bizimle doğrudan e-posta yoluyla iletişime geçin."
+      },
+      "info_heading": "İletişim Bilgileri",
+      "info": {
+        "address_label": "Adres",
+        "phone_label": "Telefon",
+        "email_label": "E-posta",
+        "hours_label": "Çalışma Saatleri"
+      },
+      "map_note": "[Bu bölümdeki harita gömmesini gerçek konumunuzla değiştirin — README dosyasına bakın.]"
+    }
+  }
+}
